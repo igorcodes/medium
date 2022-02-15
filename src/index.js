@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-//import App from './App';
 import TopBar from 'components/topBar'
-//у нас абсолютные пути, все пути начинаются от нод модулес
 import {CurrentUserProvider} from 'context/currentUser'
 import CurrentUserChecker from 'components/currentUserChecker'
 
